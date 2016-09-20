@@ -1,0 +1,337 @@
+Continente;Ordem continente;País;Ordem país;UF;Ordem UF;Via_de_acesso;Ordem via de acesso;ano;Mês;Ordem mês;Chegadas
+África;1;África do Sul;2;São Paulo;25;Aérea;1;2015;janeiro;1;1382
+África;1;Angola;6;São Paulo;25;Aérea;1;2015;janeiro;1;5573
+África;1;Cabo Verde;35;São Paulo;25;Aérea;1;2015;janeiro;1;29
+África;1;Nigéria;162;São Paulo;25;Aérea;1;2015;janeiro;1;104
+África;1;Outros países;998;São Paulo;25;Aérea;1;2015;janeiro;1;1524
+América Central e Caribe;2;Costa Rica;53;São Paulo;25;Aérea;1;2015;janeiro;1;225
+América Central e Caribe;2;Cuba;55;São Paulo;25;Aérea;1;2015;janeiro;1;176
+América Central e Caribe;2;Guatemala;84;São Paulo;25;Aérea;1;2015;janeiro;1;162
+América Central e Caribe;2;Panamá;170;São Paulo;25;Aérea;1;2015;janeiro;1;307
+América Central e Caribe;2;Outros países;998;São Paulo;25;Aérea;1;2015;janeiro;1;451
+América do Norte;3;Canadá;38;São Paulo;25;Aérea;1;2015;janeiro;1;1731
+América do Norte;3;Estados Unidos;68;São Paulo;25;Aérea;1;2015;janeiro;1;8247
+América do Norte;3;México;148;São Paulo;25;Aérea;1;2015;janeiro;1;2187
+América do Sul;4;Argentina;11;São Paulo;25;Aérea;1;2015;janeiro;1;39435
+América do Sul;4;Bolívia;26;São Paulo;25;Aérea;1;2015;janeiro;1;4546
+América do Sul;4;Chile;42;São Paulo;25;Aérea;1;2015;janeiro;1;12302
+América do Sul;4;Colômbia;48;São Paulo;25;Aérea;1;2015;janeiro;1;3306
+América do Sul;4;Equador;63;São Paulo;25;Aérea;1;2015;janeiro;1;1038
+América do Sul;4;Guiana Francesa;87;São Paulo;25;Aérea;1;2015;janeiro;1;0
+América do Sul;4;Paraguai;173;São Paulo;25;Aérea;1;2015;janeiro;1;4281
+América do Sul;4;Peru;174;São Paulo;25;Aérea;1;2015;janeiro;1;2928
+América do Sul;4;Guiana;86;São Paulo;25;Aérea;1;2015;janeiro;1;11
+América do Sul;4;Suriname;217;São Paulo;25;Aérea;1;2015;janeiro;1;0
+América do Sul;4;Uruguai;234;São Paulo;25;Aérea;1;2015;janeiro;1;4481
+América do Sul;4;Venezuela;238;São Paulo;25;Aérea;1;2015;janeiro;1;1570
+Ásia;5;China;43;São Paulo;25;Aérea;1;2015;janeiro;1;852
+Ásia;5;Índia;113;São Paulo;25;Aérea;1;2015;janeiro;1;300
+Ásia;5;Israel;119;São Paulo;25;Aérea;1;2015;janeiro;1;805
+Ásia;5;Japão;122;São Paulo;25;Aérea;1;2015;janeiro;1;1034
+Ásia;5;República da Coreia;184;São Paulo;25;Aérea;1;2015;janeiro;1;2530
+Ásia;5;Outros países;998;São Paulo;25;Aérea;1;2015;janeiro;1;2268
+Europa;6;Alemanha;4;São Paulo;25;Aérea;1;2015;janeiro;1;5395
+Europa;6;Áustria;15;São Paulo;25;Aérea;1;2015;janeiro;1;749
+Europa;6;Bélgica;21;São Paulo;25;Aérea;1;2015;janeiro;1;732
+Europa;6;Dinamarca;57;São Paulo;25;Aérea;1;2015;janeiro;1;605
+Europa;6;Espanha;67;São Paulo;25;Aérea;1;2015;janeiro;1;3831
+Europa;6;Finlândia;73;São Paulo;25;Aérea;1;2015;janeiro;1;279
+Europa;6;França;74;São Paulo;25;Aérea;1;2015;janeiro;1;4905
+Europa;6;Grécia;81;São Paulo;25;Aérea;1;2015;janeiro;1;207
+Europa;6;Holanda;92;São Paulo;25;Aérea;1;2015;janeiro;1;1388
+Europa;6;Hungria;94;São Paulo;25;Aérea;1;2015;janeiro;1;201
+Europa;6;Reino Unido/ Inglaterra;182;São Paulo;25;Aérea;1;2015;janeiro;1;3620
+Europa;6;Irlanda;117;São Paulo;25;Aérea;1;2015;janeiro;1;478
+Europa;6;Itália;120;São Paulo;25;Aérea;1;2015;janeiro;1;5564
+Europa;6;Noruega;164;São Paulo;25;Aérea;1;2015;janeiro;1;674
+Europa;6;Polônia;177;São Paulo;25;Aérea;1;2015;janeiro;1;643
+Europa;6;Portugal;179;São Paulo;25;Aérea;1;2015;janeiro;1;4059
+Europa;6;República Tcheca;187;São Paulo;25;Aérea;1;2015;janeiro;1;140
+Europa;6;Rússia;190;São Paulo;25;Aérea;1;2015;janeiro;1;786
+Europa;6;Suécia;215;São Paulo;25;Aérea;1;2015;janeiro;1;974
+Europa;6;Suíça;216;São Paulo;25;Aérea;1;2015;janeiro;1;2385
+Europa;6;Outros países;998;São Paulo;25;Aérea;1;2015;janeiro;1;1893
+Oceania;7;Austrália;14;São Paulo;25;Aérea;1;2015;janeiro;1;1012
+Oceania;7;Nova Zelândia;166;São Paulo;25;Aérea;1;2015;janeiro;1;218
+Oceania;7;Outros países;998;São Paulo;25;Aérea;1;2015;janeiro;1;9
+Continente não especificado;8;Países não especificados;999;São Paulo;25;Aérea;1;2015;janeiro;1;12
+África;1;África do Sul;2;São Paulo;25;Aérea;1;2014;janeiro;1;823
+África;1;Angola;6;São Paulo;25;Aérea;1;2014;janeiro;1;3178
+África;1;Cabo Verde;35;São Paulo;25;Aérea;1;2014;janeiro;1;15
+África;1;Nigéria;162;São Paulo;25;Aérea;1;2014;janeiro;1;78
+África;1;Outros países;998;São Paulo;25;Aérea;1;2014;janeiro;1;915
+América Central e Caribe;2;Costa Rica;53;São Paulo;25;Aérea;1;2014;janeiro;1;294
+América Central e Caribe;2;Cuba;55;São Paulo;25;Aérea;1;2014;janeiro;1;143
+América Central e Caribe;2;Guatemala;84;São Paulo;25;Aérea;1;2014;janeiro;1;85
+América Central e Caribe;2;Panamá;170;São Paulo;25;Aérea;1;2014;janeiro;1;194
+América Central e Caribe;2;Outros países;998;São Paulo;25;Aérea;1;2014;janeiro;1;433
+América do Norte;3;Canadá;38;São Paulo;25;Aérea;1;2014;janeiro;1;2411
+América do Norte;3;Estados Unidos;68;São Paulo;25;Aérea;1;2014;janeiro;1;13526
+América do Norte;3;México;148;São Paulo;25;Aérea;1;2014;janeiro;1;1939
+América do Sul;4;Argentina;11;São Paulo;25;Aérea;1;2014;janeiro;1;33676
+América do Sul;4;Bolívia;26;São Paulo;25;Aérea;1;2014;janeiro;1;3617
+América do Sul;4;Chile;42;São Paulo;25;Aérea;1;2014;janeiro;1;8067
+América do Sul;4;Colômbia;48;São Paulo;25;Aérea;1;2014;janeiro;1;3395
+América do Sul;4;Equador;63;São Paulo;25;Aérea;1;2014;janeiro;1;738
+América do Sul;4;Guiana Francesa;87;São Paulo;25;Aérea;1;2014;janeiro;1;0
+América do Sul;4;Paraguai;173;São Paulo;25;Aérea;1;2014;janeiro;1;2962
+América do Sul;4;Peru;174;São Paulo;25;Aérea;1;2014;janeiro;1;2385
+América do Sul;4;Guiana;86;São Paulo;25;Aérea;1;2014;janeiro;1;8
+América do Sul;4;Suriname;217;São Paulo;25;Aérea;1;2014;janeiro;1;3
+América do Sul;4;Uruguai;234;São Paulo;25;Aérea;1;2014;janeiro;1;2568
+América do Sul;4;Venezuela;238;São Paulo;25;Aérea;1;2014;janeiro;1;2429
+Ásia;5;China;43;São Paulo;25;Aérea;1;2014;janeiro;1;1539
+Ásia;5;Índia;113;São Paulo;25;Aérea;1;2014;janeiro;1;742
+Ásia;5;Israel;119;São Paulo;25;Aérea;1;2014;janeiro;1;740
+Ásia;5;Japão;122;São Paulo;25;Aérea;1;2014;janeiro;1;2196
+Ásia;5;República da Coreia;184;São Paulo;25;Aérea;1;2014;janeiro;1;1652
+Ásia;5;Outros países;998;São Paulo;25;Aérea;1;2014;janeiro;1;1401
+Europa;6;Alemanha;4;São Paulo;25;Aérea;1;2014;janeiro;1;6966
+Europa;6;Áustria;15;São Paulo;25;Aérea;1;2014;janeiro;1;633
+Europa;6;Bélgica;21;São Paulo;25;Aérea;1;2014;janeiro;1;658
+Europa;6;Dinamarca;57;São Paulo;25;Aérea;1;2014;janeiro;1;543
+Europa;6;Espanha;67;São Paulo;25;Aérea;1;2014;janeiro;1;3866
+Europa;6;Finlândia;73;São Paulo;25;Aérea;1;2014;janeiro;1;290
+Europa;6;França;74;São Paulo;25;Aérea;1;2014;janeiro;1;3562
+Europa;6;Grécia;81;São Paulo;25;Aérea;1;2014;janeiro;1;154
+Europa;6;Holanda;92;São Paulo;25;Aérea;1;2014;janeiro;1;1194
+Europa;6;Hungria;94;São Paulo;25;Aérea;1;2014;janeiro;1;107
+Europa;6;Reino Unido/ Inglaterra;182;São Paulo;25;Aérea;1;2014;janeiro;1;3108
+Europa;6;Irlanda;117;São Paulo;25;Aérea;1;2014;janeiro;1;444
+Europa;6;Itália;120;São Paulo;25;Aérea;1;2014;janeiro;1;4837
+Europa;6;Noruega;164;São Paulo;25;Aérea;1;2014;janeiro;1;344
+Europa;6;Polônia;177;São Paulo;25;Aérea;1;2014;janeiro;1;451
+Europa;6;Portugal;179;São Paulo;25;Aérea;1;2014;janeiro;1;3889
+Europa;6;República Tcheca;187;São Paulo;25;Aérea;1;2014;janeiro;1;147
+Europa;6;Rússia;190;São Paulo;25;Aérea;1;2014;janeiro;1;546
+Europa;6;Suécia;215;São Paulo;25;Aérea;1;2014;janeiro;1;943
+Europa;6;Suíça;216;São Paulo;25;Aérea;1;2014;janeiro;1;1741
+Europa;6;Outros países;998;São Paulo;25;Aérea;1;2014;janeiro;1;1834
+Oceania;7;Austrália;14;São Paulo;25;Aérea;1;2014;janeiro;1;586
+Oceania;7;Nova Zelândia;166;São Paulo;25;Aérea;1;2014;janeiro;1;122
+Oceania;7;Outros países;998;São Paulo;25;Aérea;1;2014;janeiro;1;3
+Continente não especificado;8;Países não especificados;999;São Paulo;25;Aérea;1;2014;janeiro;1;6
+África;1;África do Sul;2;São Paulo;25;Aérea;1;2013;janeiro;1;1212
+África;1;Angola;6;São Paulo;25;Aérea;1;2013;janeiro;1;2112
+África;1;Cabo Verde;35;São Paulo;25;Aérea;1;2013;janeiro;1;20
+África;1;Nigéria;162;São Paulo;25;Aérea;1;2013;janeiro;1;73
+África;1;Outros países;998;São Paulo;25;Aérea;1;2013;janeiro;1;1227
+América Central e Caribe;2;Costa Rica;53;São Paulo;25;Aérea;1;2013;janeiro;1;427
+América Central e Caribe;2;Cuba;55;São Paulo;25;Aérea;1;2013;janeiro;1;131
+América Central e Caribe;2;Guatemala;84;São Paulo;25;Aérea;1;2013;janeiro;1;147
+América Central e Caribe;2;Panamá;170;São Paulo;25;Aérea;1;2013;janeiro;1;276
+América Central e Caribe;2;Outros países;998;São Paulo;25;Aérea;1;2013;janeiro;1;429
+América do Norte;3;Canadá;38;São Paulo;25;Aérea;1;2013;janeiro;1;2981
+América do Norte;3;Estados Unidos;68;São Paulo;25;Aérea;1;2013;janeiro;1;21679
+América do Norte;3;México;148;São Paulo;25;Aérea;1;2013;janeiro;1;2816
+América do Sul;4;Argentina;11;São Paulo;25;Aérea;1;2013;janeiro;1;48411
+América do Sul;4;Bolívia;26;São Paulo;25;Aérea;1;2013;janeiro;1;4980
+América do Sul;4;Chile;42;São Paulo;25;Aérea;1;2013;janeiro;1;12562
+América do Sul;4;Colômbia;48;São Paulo;25;Aérea;1;2013;janeiro;1;3591
+América do Sul;4;Equador;63;São Paulo;25;Aérea;1;2013;janeiro;1;909
+América do Sul;4;Guiana Francesa;87;São Paulo;25;Aérea;1;2013;janeiro;1;0
+América do Sul;4;Paraguai;173;São Paulo;25;Aérea;1;2013;janeiro;1;4087
+América do Sul;4;Peru;174;São Paulo;25;Aérea;1;2013;janeiro;1;2962
+América do Sul;4;Guiana;86;São Paulo;25;Aérea;1;2013;janeiro;1;6
+América do Sul;4;Suriname;217;São Paulo;25;Aérea;1;2013;janeiro;1;10
+América do Sul;4;Uruguai;234;São Paulo;25;Aérea;1;2013;janeiro;1;3948
+América do Sul;4;Venezuela;238;São Paulo;25;Aérea;1;2013;janeiro;1;1967
+Ásia;5;China;43;São Paulo;25;Aérea;1;2013;janeiro;1;1958
+Ásia;5;Índia;113;São Paulo;25;Aérea;1;2013;janeiro;1;1038
+Ásia;5;Israel;119;São Paulo;25;Aérea;1;2013;janeiro;1;1074
+Ásia;5;Japão;122;São Paulo;25;Aérea;1;2013;janeiro;1;2986
+Ásia;5;República da Coreia;184;São Paulo;25;Aérea;1;2013;janeiro;1;2943
+Ásia;5;Outros países;998;São Paulo;25;Aérea;1;2013;janeiro;1;2017
+Europa;6;Alemanha;4;São Paulo;25;Aérea;1;2013;janeiro;1;7740
+Europa;6;Áustria;15;São Paulo;25;Aérea;1;2013;janeiro;1;894
+Europa;6;Bélgica;21;São Paulo;25;Aérea;1;2013;janeiro;1;959
+Europa;6;Dinamarca;57;São Paulo;25;Aérea;1;2013;janeiro;1;783
+Europa;6;Espanha;67;São Paulo;25;Aérea;1;2013;janeiro;1;6755
+Europa;6;Finlândia;73;São Paulo;25;Aérea;1;2013;janeiro;1;462
+Europa;6;França;74;São Paulo;25;Aérea;1;2013;janeiro;1;6157
+Europa;6;Grécia;81;São Paulo;25;Aérea;1;2013;janeiro;1;264
+Europa;6;Holanda;92;São Paulo;25;Aérea;1;2013;janeiro;1;2232
+Europa;6;Hungria;94;São Paulo;25;Aérea;1;2013;janeiro;1;152
+Europa;6;Reino Unido/ Inglaterra;182;São Paulo;25;Aérea;1;2013;janeiro;1;4828
+Europa;6;Irlanda;117;São Paulo;25;Aérea;1;2013;janeiro;1;764
+Europa;6;Itália;120;São Paulo;25;Aérea;1;2013;janeiro;1;7947
+Europa;6;Noruega;164;São Paulo;25;Aérea;1;2013;janeiro;1;765
+Europa;6;Polônia;177;São Paulo;25;Aérea;1;2013;janeiro;1;645
+Europa;6;Portugal;179;São Paulo;25;Aérea;1;2013;janeiro;1;5157
+Europa;6;República Tcheca;187;São Paulo;25;Aérea;1;2013;janeiro;1;296
+Europa;6;Rússia;190;São Paulo;25;Aérea;1;2013;janeiro;1;883
+Europa;6;Suécia;215;São Paulo;25;Aérea;1;2013;janeiro;1;1440
+Europa;6;Suíça;216;São Paulo;25;Aérea;1;2013;janeiro;1;2343
+Europa;6;Outros países;998;São Paulo;25;Aérea;1;2013;janeiro;1;2157
+Oceania;7;Austrália;14;São Paulo;25;Aérea;1;2013;janeiro;1;972
+Oceania;7;Nova Zelândia;166;São Paulo;25;Aérea;1;2013;janeiro;1;207
+Oceania;7;Outros países;998;São Paulo;25;Aérea;1;2013;janeiro;1;15
+Continente não especificado;8;Países não especificados;999;São Paulo;25;Aérea;1;2013;janeiro;1;18
+África;1;África do Sul;2;São Paulo;25;Aérea;1;2012;janeiro;1;1122
+África;1;Angola;6;São Paulo;25;Aérea;1;2012;janeiro;1;2797
+África;1;Cabo Verde;35;São Paulo;25;Aérea;1;2012;janeiro;1;29
+África;1;Nigéria;162;São Paulo;25;Aérea;1;2012;janeiro;1;66
+África;1;Outros países;998;São Paulo;25;Aérea;1;2012;janeiro;1;991
+América Central e Caribe;2;Costa Rica;53;São Paulo;25;Aérea;1;2012;janeiro;1;297
+América Central e Caribe;2;Cuba;55;São Paulo;25;Aérea;1;2012;janeiro;1;147
+América Central e Caribe;2;Guatemala;84;São Paulo;25;Aérea;1;2012;janeiro;1;170
+América Central e Caribe;2;Panamá;170;São Paulo;25;Aérea;1;2012;janeiro;1;192
+América Central e Caribe;2;Outros países;998;São Paulo;25;Aérea;1;2012;janeiro;1;455
+América do Norte;3;Canadá;38;São Paulo;25;Aérea;1;2012;janeiro;1;4090
+América do Norte;3;Estados Unidos;68;São Paulo;25;Aérea;1;2012;janeiro;1;22055
+América do Norte;3;México;148;São Paulo;25;Aérea;1;2012;janeiro;1;2756
+América do Sul;4;Argentina;11;São Paulo;25;Aérea;1;2012;janeiro;1;34964
+América do Sul;4;Bolívia;26;São Paulo;25;Aérea;1;2012;janeiro;1;5045
+América do Sul;4;Chile;42;São Paulo;25;Aérea;1;2012;janeiro;1;7807
+América do Sul;4;Colômbia;48;São Paulo;25;Aérea;1;2012;janeiro;1;3446
+América do Sul;4;Equador;63;São Paulo;25;Aérea;1;2012;janeiro;1;708
+América do Sul;4;Guiana Francesa;87;São Paulo;25;Aérea;1;2012;janeiro;1;0
+América do Sul;4;Paraguai;173;São Paulo;25;Aérea;1;2012;janeiro;1;2639
+América do Sul;4;Peru;174;São Paulo;25;Aérea;1;2012;janeiro;1;2913
+América do Sul;4;Guiana;86;São Paulo;25;Aérea;1;2012;janeiro;1;12
+América do Sul;4;Suriname;217;São Paulo;25;Aérea;1;2012;janeiro;1;5
+América do Sul;4;Uruguai;234;São Paulo;25;Aérea;1;2012;janeiro;1;2685
+América do Sul;4;Venezuela;238;São Paulo;25;Aérea;1;2012;janeiro;1;1710
+Ásia;5;China;43;São Paulo;25;Aérea;1;2012;janeiro;1;1809
+Ásia;5;Índia;113;São Paulo;25;Aérea;1;2012;janeiro;1;1134
+Ásia;5;Israel;119;São Paulo;25;Aérea;1;2012;janeiro;1;1033
+Ásia;5;Japão;122;São Paulo;25;Aérea;1;2012;janeiro;1;2767
+Ásia;5;República da Coreia;184;São Paulo;25;Aérea;1;2012;janeiro;1;2781
+Ásia;5;Outros países;998;São Paulo;25;Aérea;1;2012;janeiro;1;2024
+Europa;6;Alemanha;4;São Paulo;25;Aérea;1;2012;janeiro;1;10891
+Europa;6;Áustria;15;São Paulo;25;Aérea;1;2012;janeiro;1;1015
+Europa;6;Bélgica;21;São Paulo;25;Aérea;1;2012;janeiro;1;1027
+Europa;6;Dinamarca;57;São Paulo;25;Aérea;1;2012;janeiro;1;1046
+Europa;6;Espanha;67;São Paulo;25;Aérea;1;2012;janeiro;1;7468
+Europa;6;Finlândia;73;São Paulo;25;Aérea;1;2012;janeiro;1;506
+Europa;6;França;74;São Paulo;25;Aérea;1;2012;janeiro;1;5858
+Europa;6;Grécia;81;São Paulo;25;Aérea;1;2012;janeiro;1;302
+Europa;6;Holanda;92;São Paulo;25;Aérea;1;2012;janeiro;1;2334
+Europa;6;Hungria;94;São Paulo;25;Aérea;1;2012;janeiro;1;263
+Europa;6;Reino Unido/ Inglaterra;182;São Paulo;25;Aérea;1;2012;janeiro;1;5031
+Europa;6;Irlanda;117;São Paulo;25;Aérea;1;2012;janeiro;1;605
+Europa;6;Itália;120;São Paulo;25;Aérea;1;2012;janeiro;1;7901
+Europa;6;Noruega;164;São Paulo;25;Aérea;1;2012;janeiro;1;698
+Europa;6;Polônia;177;São Paulo;25;Aérea;1;2012;janeiro;1;643
+Europa;6;Portugal;179;São Paulo;25;Aérea;1;2012;janeiro;1;5812
+Europa;6;República Tcheca;187;São Paulo;25;Aérea;1;2012;janeiro;1;243
+Europa;6;Rússia;190;São Paulo;25;Aérea;1;2012;janeiro;1;612
+Europa;6;Suécia;215;São Paulo;25;Aérea;1;2012;janeiro;1;1462
+Europa;6;Suíça;216;São Paulo;25;Aérea;1;2012;janeiro;1;2751
+Europa;6;Outros países;998;São Paulo;25;Aérea;1;2012;janeiro;1;2451
+Oceania;7;Austrália;14;São Paulo;25;Aérea;1;2012;janeiro;1;1033
+Oceania;7;Nova Zelândia;166;São Paulo;25;Aérea;1;2012;janeiro;1;202
+Oceania;7;Outros países;998;São Paulo;25;Aérea;1;2012;janeiro;1;1
+Continente não especificado;8;Países não especificados;999;São Paulo;25;Aérea;1;2012;janeiro;1;7
+África;1;África do Sul;2;São Paulo;25;Aérea;1;2011;janeiro;1;951
+África;1;Angola;6;São Paulo;25;Aérea;1;2011;janeiro;1;2420
+África;1;Cabo Verde;35;São Paulo;25;Aérea;1;2011;janeiro;1;16
+África;1;Nigéria;162;São Paulo;25;Aérea;1;2011;janeiro;1;95
+África;1;Outros países;998;São Paulo;25;Aérea;1;2011;janeiro;1;1169
+América Central e Caribe;2;Costa Rica;53;São Paulo;25;Aérea;1;2011;janeiro;1;393
+América Central e Caribe;2;Cuba;55;São Paulo;25;Aérea;1;2011;janeiro;1;159
+América Central e Caribe;2;Guatemala;84;São Paulo;25;Aérea;1;2011;janeiro;1;120
+América Central e Caribe;2;Panamá;170;São Paulo;25;Aérea;1;2011;janeiro;1;284
+América Central e Caribe;2;Outros países;998;São Paulo;25;Aérea;1;2011;janeiro;1;402
+América do Norte;3;Canadá;38;São Paulo;25;Aérea;1;2011;janeiro;1;3802
+América do Norte;3;Estados Unidos;68;São Paulo;25;Aérea;1;2011;janeiro;1;20043
+América do Norte;3;México;148;São Paulo;25;Aérea;1;2011;janeiro;1;2958
+América do Sul;4;Argentina;11;São Paulo;25;Aérea;1;2011;janeiro;1;33584
+América do Sul;4;Bolívia;26;São Paulo;25;Aérea;1;2011;janeiro;1;3987
+América do Sul;4;Chile;42;São Paulo;25;Aérea;1;2011;janeiro;1;8382
+América do Sul;4;Colômbia;48;São Paulo;25;Aérea;1;2011;janeiro;1;3902
+América do Sul;4;Equador;63;São Paulo;25;Aérea;1;2011;janeiro;1;695
+América do Sul;4;Guiana Francesa;87;São Paulo;25;Aérea;1;2011;janeiro;1;1
+América do Sul;4;Paraguai;173;São Paulo;25;Aérea;1;2011;janeiro;1;2207
+América do Sul;4;Peru;174;São Paulo;25;Aérea;1;2011;janeiro;1;2548
+América do Sul;4;Guiana;86;São Paulo;25;Aérea;1;2011;janeiro;1;11
+América do Sul;4;Suriname;217;São Paulo;25;Aérea;1;2011;janeiro;1;5
+América do Sul;4;Uruguai;234;São Paulo;25;Aérea;1;2011;janeiro;1;2711
+América do Sul;4;Venezuela;238;São Paulo;25;Aérea;1;2011;janeiro;1;1680
+Ásia;5;China;43;São Paulo;25;Aérea;1;2011;janeiro;1;1816
+Ásia;5;Índia;113;São Paulo;25;Aérea;1;2011;janeiro;1;1198
+Ásia;5;Israel;119;São Paulo;25;Aérea;1;2011;janeiro;1;1921
+Ásia;5;Japão;122;São Paulo;25;Aérea;1;2011;janeiro;1;2623
+Ásia;5;República da Coreia;184;São Paulo;25;Aérea;1;2011;janeiro;1;2810
+Ásia;5;Outros países;998;São Paulo;25;Aérea;1;2011;janeiro;1;2414
+Europa;6;Alemanha;4;São Paulo;25;Aérea;1;2011;janeiro;1;10043
+Europa;6;Áustria;15;São Paulo;25;Aérea;1;2011;janeiro;1;1031
+Europa;6;Bélgica;21;São Paulo;25;Aérea;1;2011;janeiro;1;961
+Europa;6;Dinamarca;57;São Paulo;25;Aérea;1;2011;janeiro;1;891
+Europa;6;Espanha;67;São Paulo;25;Aérea;1;2011;janeiro;1;6276
+Europa;6;Finlândia;73;São Paulo;25;Aérea;1;2011;janeiro;1;636
+Europa;6;França;74;São Paulo;25;Aérea;1;2011;janeiro;1;5962
+Europa;6;Grécia;81;São Paulo;25;Aérea;1;2011;janeiro;1;262
+Europa;6;Holanda;92;São Paulo;25;Aérea;1;2011;janeiro;1;2474
+Europa;6;Hungria;94;São Paulo;25;Aérea;1;2011;janeiro;1;171
+Europa;6;Reino Unido/ Inglaterra;182;São Paulo;25;Aérea;1;2011;janeiro;1;4166
+Europa;6;Irlanda;117;São Paulo;25;Aérea;1;2011;janeiro;1;585
+Europa;6;Itália;120;São Paulo;25;Aérea;1;2011;janeiro;1;7570
+Europa;6;Noruega;164;São Paulo;25;Aérea;1;2011;janeiro;1;699
+Europa;6;Polônia;177;São Paulo;25;Aérea;1;2011;janeiro;1;646
+Europa;6;Portugal;179;São Paulo;25;Aérea;1;2011;janeiro;1;5877
+Europa;6;República Tcheca;187;São Paulo;25;Aérea;1;2011;janeiro;1;192
+Europa;6;Rússia;190;São Paulo;25;Aérea;1;2011;janeiro;1;772
+Europa;6;Suécia;215;São Paulo;25;Aérea;1;2011;janeiro;1;1574
+Europa;6;Suíça;216;São Paulo;25;Aérea;1;2011;janeiro;1;2217
+Europa;6;Outros países;998;São Paulo;25;Aérea;1;2011;janeiro;1;1959
+Oceania;7;Austrália;14;São Paulo;25;Aérea;1;2011;janeiro;1;991
+Oceania;7;Nova Zelândia;166;São Paulo;25;Aérea;1;2011;janeiro;1;206
+Oceania;7;Outros países;998;São Paulo;25;Aérea;1;2011;janeiro;1;11
+Continente não especificado;8;Países não especificados;999;São Paulo;25;Aérea;1;2011;janeiro;1;12
+África;1;África do Sul;2;São Paulo;25;Aérea;1;2010;janeiro;1;933
+África;1;Angola;6;São Paulo;25;Aérea;1;2010;janeiro;1;2208
+África;1;Cabo Verde;35;São Paulo;25;Aérea;1;2010;janeiro;1;16
+África;1;Nigéria;162;São Paulo;25;Aérea;1;2010;janeiro;1;95
+África;1;Outros países;998;São Paulo;25;Aérea;1;2010;janeiro;1;882
+América Central e Caribe;2;Costa Rica;53;São Paulo;25;Aérea;1;2010;janeiro;1;350
+América Central e Caribe;2;Cuba;55;São Paulo;25;Aérea;1;2010;janeiro;1;162
+América Central e Caribe;2;Guatemala;84;São Paulo;25;Aérea;1;2010;janeiro;1;164
+América Central e Caribe;2;Panamá;170;São Paulo;25;Aérea;1;2010;janeiro;1;193
+América Central e Caribe;2;Outros países;998;São Paulo;25;Aérea;1;2010;janeiro;1;340
+América do Norte;3;Canadá;38;São Paulo;25;Aérea;1;2010;janeiro;1;3474
+América do Norte;3;Estados Unidos;68;São Paulo;25;Aérea;1;2010;janeiro;1;24639
+América do Norte;3;México;148;São Paulo;25;Aérea;1;2010;janeiro;1;2891
+América do Sul;4;Argentina;11;São Paulo;25;Aérea;1;2010;janeiro;1;23568
+América do Sul;4;Bolívia;26;São Paulo;25;Aérea;1;2010;janeiro;1;3773
+América do Sul;4;Chile;42;São Paulo;25;Aérea;1;2010;janeiro;1;10194
+América do Sul;4;Colômbia;48;São Paulo;25;Aérea;1;2010;janeiro;1;3416
+América do Sul;4;Equador;63;São Paulo;25;Aérea;1;2010;janeiro;1;614
+América do Sul;4;Guiana Francesa;87;São Paulo;25;Aérea;1;2010;janeiro;1;51
+América do Sul;4;Paraguai;173;São Paulo;25;Aérea;1;2010;janeiro;1;2262
+América do Sul;4;Peru;174;São Paulo;25;Aérea;1;2010;janeiro;1;2281
+América do Sul;4;Guiana;86;São Paulo;25;Aérea;1;2010;janeiro;1;8
+América do Sul;4;Suriname;217;São Paulo;25;Aérea;1;2010;janeiro;1;6
+América do Sul;4;Uruguai;234;São Paulo;25;Aérea;1;2010;janeiro;1;2772
+América do Sul;4;Venezuela;238;São Paulo;25;Aérea;1;2010;janeiro;1;2179
+Ásia;5;China;43;São Paulo;25;Aérea;1;2010;janeiro;1;1596
+Ásia;5;Índia;113;São Paulo;25;Aérea;1;2010;janeiro;1;713
+Ásia;5;Israel;119;São Paulo;25;Aérea;1;2010;janeiro;1;2743
+Ásia;5;Japão;122;São Paulo;25;Aérea;1;2010;janeiro;1;2175
+Ásia;5;República da Coreia;184;São Paulo;25;Aérea;1;2010;janeiro;1;1769
+Ásia;5;Outros países;998;São Paulo;25;Aérea;1;2010;janeiro;1;1170
+Europa;6;Alemanha;4;São Paulo;25;Aérea;1;2010;janeiro;1;7879
+Europa;6;Áustria;15;São Paulo;25;Aérea;1;2010;janeiro;1;1125
+Europa;6;Bélgica;21;São Paulo;25;Aérea;1;2010;janeiro;1;1181
+Europa;6;Dinamarca;57;São Paulo;25;Aérea;1;2010;janeiro;1;908
+Europa;6;Espanha;67;São Paulo;25;Aérea;1;2010;janeiro;1;5493
+Europa;6;Finlândia;73;São Paulo;25;Aérea;1;2010;janeiro;1;546
+Europa;6;França;74;São Paulo;25;Aérea;1;2010;janeiro;1;7730
+Europa;6;Grécia;81;São Paulo;25;Aérea;1;2010;janeiro;1;259
+Europa;6;Holanda;92;São Paulo;25;Aérea;1;2010;janeiro;1;2862
+Europa;6;Hungria;94;São Paulo;25;Aérea;1;2010;janeiro;1;284
+Europa;6;Reino Unido/ Inglaterra;182;São Paulo;25;Aérea;1;2010;janeiro;1;6166
+Europa;6;Irlanda;117;São Paulo;25;Aérea;1;2010;janeiro;1;465
+Europa;6;Itália;120;São Paulo;25;Aérea;1;2010;janeiro;1;11341
+Europa;6;Noruega;164;São Paulo;25;Aérea;1;2010;janeiro;1;673
+Europa;6;Polônia;177;São Paulo;25;Aérea;1;2010;janeiro;1;701
+Europa;6;Portugal;179;São Paulo;25;Aérea;1;2010;janeiro;1;6346
+Europa;6;República Tcheca;187;São Paulo;25;Aérea;1;2010;janeiro;1;206
+Europa;6;Rússia;190;São Paulo;25;Aérea;1;2010;janeiro;1;726
+Europa;6;Suécia;215;São Paulo;25;Aérea;1;2010;janeiro;1;1506
+Europa;6;Suíça;216;São Paulo;25;Aérea;1;2010;janeiro;1;3032
+Europa;6;Outros países;998;São Paulo;25;Aérea;1;2010;janeiro;1;2187
+Oceania;7;Austrália;14;São Paulo;25;Aérea;1;2010;janeiro;1;1017
+Oceania;7;Nova Zelândia;166;São Paulo;25;Aérea;1;2010;janeiro;1;195
+Oceania;7;Outros países;998;São Paulo;25;Aérea;1;2010;janeiro;1;17
+Continente não especificado;8;Países não especificados;999;São Paulo;25;Aérea;1;2010;janeiro;1;6
