@@ -1,0 +1,23 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\MLUQUES\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.1.0
+[debug] Platform:     win32
+[debug] Node Version: v6.9.1
+[debug] Time:         Fri Nov 04 2016 07:29:14 GMT-0200 (E. South America Daylight Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/projeto-2-cvw 
+[debug] Error: socket hang up
+    at createHangUpError (_http_client.js:254:15)
+    at TLSSocket.socketOnEnd (_http_client.js:346:23)
+    at emitNone (events.js:91:20)
+    at TLSSocket.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+[error] 
+[error] Error: Server Error. socket hang up
